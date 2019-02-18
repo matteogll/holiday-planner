@@ -1,7 +1,6 @@
 # Holiday Planner: a programmer exercise <sup>[![Version Badge]</sup>
 
-[![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repo is just a programming exercise, you can use it for job interviews or just during a speech, 
 talking about code best practices (like us).
