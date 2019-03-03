@@ -1,4 +1,4 @@
-# Holiday Planner: a programmer exercise <sup>[![Version Badge]</sup>
+# Holiday Planner: a programmer exercise
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
