@@ -74,6 +74,6 @@ You can avoid to implement the following features/requirements:
 
 ## Sample projects
 
-You can find my demo project in my github: 
-* matteogll/holiday-planner-api: API and database
-* matteogll/holiday-planner-fe: React frontend
+You can find the demo projects on github: 
+* [pbormetti/holiday-planner-api](https://github.com/pbormetti/holiday-planner-api): API and database
+* [matteogll/holiday-planner-fe](https://github.com/matteogll/holiday-planner-fe): React frontend
