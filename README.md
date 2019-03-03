@@ -75,5 +75,5 @@ You can avoid to implement the following features/requirements:
 ## Sample projects
 
 You can find my demo project in my github: 
-* matteogll/holiday-planner-sym4-api: API and database
-* matteogll/holiday-planner-react-fe: React frontend
+* matteogll/holiday-planner-api: API and database
+* matteogll/holiday-planner-fe: React frontend
